@@ -1,0 +1,181 @@
+﻿Province,City,Area,Company,Status,Delivery Time,Delivery Charges
+AJK,Muzzaffagarh,Main,BLUEX,Delivered,12 Days,150
+AJK,Muzafarabad,Main,TRAX,Delivered,3 Days,150
+AJK,Muzafarabad,Main,TRAX,Delivered,4 Days,150
+AJK,Muzzaffagarh,Main,TRAX,Returned Recieved,10 Days,130
+Balochistan,Dera Murad Jamal,Main,BLUEX,Delivered,6 Days,150
+Balochistan,Hub Chowki,Main,BLUEX,Delivered,7 Days,150
+Balochistan,Quetta,Main,BLUEX,Delivered,9 Days,150
+Balochistan,Quetta,Main,BLUEX,Delivered,8 Days,150
+Balochistan,Quetta,Main,BLUEX,Delivered,5 Days,150
+Balochistan,Quetta,Main,TRAX,Delivered,7 Days,150
+Balochistan,Quetta,Main,BLUEX,Returned Recieved,15 Days,180
+Balochistan,Quetta,Main,TRAX,Returned Recieved,9 Days,130
+Capital,Islamabad,Main,TRAX,Delivered,5 Days,150
+Capital,Islamabad,Main,TRAX,Delivered,3 Days,150
+Capital,Islamabad,Main,TRAX,Delivered,5 Days,150
+Capital,Islamabad,Main,TRAX,Delivered,2 Days,150
+Capital,Islamabad,Main,TRAX,Delivered,3 Days,150
+Capital,Islamabad,Main,BLUEX,Returned Recieved,6 Days,180
+Capital,Islamabad,Main,TRAX,Returned Recieved,14 Days,0
+Capital,Islamabad,Main,TRAX,Returned Recieved,10 Days,0
+KPK,Buneir,Main,BLUEX,Returned Recieved,8 Days,180
+KPK,Buneir,Main,BLUEX,Delivered,14 Days,150
+KPK,D .i.khan,Village,BLUEX,Delivered,9 Days,150
+KPK,Dargai,Tehsil,BLUEX,Returned Recieved,8 Days,180
+KPK,Mansehra,Main,TRAX,Delivered,3 Days,150
+KPK,Mardan,Main,BLUEX,Returned Recieved,10 Days,180
+KPK,Nowshera,Main,TRAX,Returned Recieved,11 Days,0
+KPK,Peshawar,Main,BLUEX,Delivered,3 Days,150
+KPK,Peshawar,Main,TRAX,Delivered,6 Days,150
+KPK,Peshawar,Main,TRAX,Delivered,5 Days,150
+KPK,Peshawar,Main,TRAX,Delivered,3 Days,150
+KPK,Rustam,Tehsil,TRAX,Delivered,4 Days,150
+KPK,Swabi,Main,BLUEX,Returned Recieved,15 Days,180
+KPK,Shabqadar Charsada,Village,TRAX,Delivered,3 Days,150
+KPK,Swabi,Main,TRAX,Returned Recieved,12 Days,0
+Punjab,Ahmed Pur East,Main,TRAX,Delivered,5 Days,150
+Punjab,Ali Pur,Tehsil,TRAX,Delivered,6 Days,150
+Punjab,Arifwala,Tehsil,TRAX,Delivered,7 Days,150
+Punjab,Attock,Main,BLUEX,Delivered,5 Days,150
+Punjab,Attock,Main,TRAX,Delivered,3 Days,150
+Punjab,Bahawalpur,Main,BLUEX,Delivered,4 Days,150
+Punjab,Bahawalpur,Main,TRAX,Returned Recieved,6 Days,0
+Punjab,Basirpur,Village,BLUEX,Returned Recieved,15 Days,180
+Punjab,Bhalwal ,Main,TRAX,Delivered,3 Days,150
+Punjab,Daska,Tehsil,TRAX,Delivered,5 Days,150
+Punjab,Depalpur,Main,BLUEX,Delivered,3 Days,150
+Punjab,Dina,Main,TRAX,Delivered,3 Days,150
+Punjab,Dinga,Main,BLUEX,Delivered,7 Days,150
+Punjab,Dultala,Main,BLUEX,Delivered,9 Days,150
+Punjab,Faisalabad,Main,BLUEX,Delivered,10 Days,150
+Punjab,Faisalabad,Main,BLUEX,Delivered,1 Days,150
+Punjab,Faisalabad,Main,TRAX,Delivered,3 Days,150
+Punjab,Faisalabad,Main,TRAX,Delivered,5 Days,150
+Punjab,Gojra,Main,BLUEX,Returned Recieved,9 Days,180
+Punjab,Gojra,Main,TRAX,Returned Recieved,8 Days,130
+Punjab,Gujranwala,Main,BLUEX,Delivered,5 Days,150
+Punjab,Gujranwala,Main,BLUEX,Delivered,4 Days,150
+Punjab,Gujranwala,Main,TRAX,Delivered,3 Days,150
+Punjab,Gujranwala,Main,TRAX,Delivered,3 Days,150
+Punjab,Gujranwala,Main,BLUEX,Returned Recieved,14 Days,180
+Punjab,Gujranwala,Main,TRAX,Returned Recieved,7 Days,0
+Punjab,Gujrat,Village,TRAX,Delivered,9 Days,150
+Punjab,Gujrat,Main,BLUEX,Returned Recieved,5 Days,180
+Punjab,Hafizabad,Main,BLUEX,Delivered,2 Days,150
+Punjab,Hafizabad,Main,BLUEX,Delivered,2 Days,150
+Punjab,Hafizabad,Village,BLUEX,Returned Recieved,10 Days,180
+Punjab,Hasilpur,Main,BLUEX,Delivered,6 Days,150
+Punjab,Hasilpur,Main,TRAX,Delivered,4 Days,150
+Punjab,Jampur,Main,BLUEX,Delivered,10 Days,150
+Punjab,Jaranwala,Main,TRAX,Delivered,2 Days,150
+Punjab,Jhang,Main,TRAX,Delivered,4 Days,150
+Punjab,Kamalia,Main,BLUEX,Delivered,6 Days,150
+Punjab,Kasur,Main,TRAX,Delivered,4 Days,150
+Punjab,Khanpur,Tehsil,BLUEX,Delivered,6 Days,150
+Punjab,Kot Radha Kidhen,Main,BLUEX,Returned Recieved,9 Days,180
+Punjab,Lahore,Main,BLUEX,Delivered,6 Days,150
+Punjab,Lahore,Main,BLUEX,Delivered,4 Days,150
+Punjab,Lahore,Main,BLUEX,Delivered,6 Days,150
+Punjab,Lahore,Main,TRAX,Delivered,2 Days,150
+Punjab,Lahore,Main,TRAX,Delivered,7 Days,150
+Punjab,Lahore,Main,TRAX,Delivered,1 Days,150
+Punjab,Lahore,Main,TRAX,Delivered,3 Days,150
+Punjab,Lahore,Main,TRAX,Delivered,3 Days,150
+Punjab,Lahore,Main,BLUEX,Returned Recieved,16 Days,180
+Punjab,Lahore,Main,BLUEX,Returned Recieved,9 Days,180
+Punjab,Lahore,Main,TRAX,Returned Recieved,11 Days,0
+Punjab,Lahore,Main,TRAX,Delivered,3 Days,150
+Punjab,Mamukanjan,Village,BLUEX,Delivered,14 Days,150
+Punjab,Mandi Bahudin,Village,BLUEX,Delivered,3 Days,150
+Punjab,Multan,Main,BLUEX,Delivered,7 Days,150
+Punjab,Multan,Main,TRAX,Delivered,4 Days,150
+Punjab,Multan,Main,TRAX,Delivered,4 Days,150
+Punjab,Multan,Main,TRAX,Delivered,4 Days,150
+Punjab,Multan,Main,TRAX,Delivered,5 Days,150
+Punjab,Multan,Main,TRAX,Delivered,5 Days,150
+Punjab,Multan,Main,TRAX,Returned Recieved,7 Days,0
+Punjab,Mureedkay,Main,TRAX,Delivered,5 Days,150
+Punjab,Narang Mandi,Main,BLUEX,Returned Recieved,15 Days,180
+Punjab,Nawab Shah,Main,BLUEX,Delivered,3 Days,150
+Punjab,Okara,Main,TRAX,Delivered,5 Days,150
+Punjab,Rajanpur,Main,TRAX,Delivered,4 Days,150
+Punjab,Rawalpindi,Main,BLUEX,Delivered,6 Days,150
+Punjab,Rawalpindi,Main,BLUEX,Delivered,7 Days,150
+Punjab,Rawalpindi,Main,BLUEX,Delivered,7 Days,150
+Punjab,Rawalpindi,Main,TRAX,Delivered,1 Days,150
+Punjab,Rawalpindi,Main,TRAX,Delivered,3 Days,150
+Punjab,Rawalpindi,Main,TRAX,Delivered,5 Days,150
+Punjab,Rawalpindi,Main,TRAX,Delivered,3 Days,150
+Punjab,Sadra,Main,TRAX,Delivered,2 Days,150
+Punjab,Sahiwal,Main,BLUEX,Delivered,7 Days,150
+Punjab,Sambrial Sialkot,Tehsil,TRAX,Delivered,3 Days,150
+Punjab,Samundri,Main,TRAX,Delivered,6 Days,150
+Punjab,Sargodha,Main,TRAX,Delivered,4 Days,150
+Punjab,Sargodha,Main,BLUEX,Returned Recieved,6 Days,180
+Punjab,Satrah Sandhuan,Tehsil,BLUEX,Returned Recieved,14 Days,180
+Punjab,Shahdadpur,Tehsil,BLUEX,Returned Recieved,11 Days,180
+Punjab,Shakargarr,Main,BLUEX,Delivered,5 Days,150
+Punjab,Sheikhupura,Main,BLUEX,Returned Recieved,14 Days,180
+Punjab,Sialkot,Main,BLUEX,Delivered,1 Days,150
+Punjab,Sialkot,Main,BLUEX,Delivered,4 Days,150
+Punjab,Sialkot,Main,TRAX,Delivered,1 Days,150
+Punjab,Sialkot,Main,TRAX,Delivered,2 Days,150
+Punjab,Talagang,Tehsil,BLUEX,Returned Recieved,10 Days,180
+Punjab,Tandliwala,Main,TRAX,Delivered,4 Days,150
+Punjab,Taxila,Main,BLUEX,Delivered,2 Days,150
+Punjab,Toba Tek Singh,Main,BLUEX,Returned Recieved,15 Days,180
+Punjab,Toba Tek Singh,Main,TRAX,Delivered,9 Days,150
+Punjab,VEHARI,Main,BLUEX,Delivered,9 Days,150
+Punjab,Wah Cantt,Tehsil,BLUEX,Delivered,9 Days,150
+Punjab,Wah Cantt,Main,TRAX,Delivered,5 Days,150
+Punjab,Zahir Peer,Main,BLUEX,Returned Recieved,9 Days,180
+Sindh,Ghotki,Main,TRAX,Delivered,8 Days,150
+Sindh,Hyderabad,Main,BLUEX,Delivered,13 Days,150
+Sindh,Hyderabad,Main,BLUEX,Delivered,4 Days,150
+Sindh,Hyderabad,Main,BLUEX,Delivered,8 Days,150
+Sindh,Hyderabad,Main,BLUEX,Delivered,10 Days,150
+Sindh,Hyderabad,Main,BLUEX,Delivered,7 Days,150
+Sindh,Hyderabad,Main,TRAX,Delivered,7 Days,150
+Sindh,Hyderabad,Main,TRAX,Delivered,4 Days,150
+Sindh,Hyderabad,Main,BLUEX,Returned Recieved,6 Days,180
+Sindh,Hyderabad,Main,BLUEX,Delivered,5 Days,150
+Sindh,Hyderabad,Main,BLUEX,Delivered,5 Days,150
+Sindh,Jamshoro,Main,BLUEX,Delivered,4 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,6 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,6 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,6 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,5 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,5 Days,150
+Sindh,karachi,Main,BLUEX,Delivered,6 Days,150
+Sindh,karachi,Main,BLUEX,Delivered,5 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,8 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,4 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,9 Days,150
+Sindh,karachi,Main,BLUEX,Delivered,3 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,3 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,4 Days,150
+Sindh,Karachi,Main,BLUEX,Delivered,4 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,2 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,2 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,6 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,5 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,4 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,4 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,4 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,5 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,4 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,2 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,7 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,2 Days,150
+Sindh,Karachi,Main,TRAX,Delivered,3 Days,150
+Sindh,Karachi,Main,BLUEX,Returned Recieved,14 Days,180
+Sindh,Karachi,Main,BLUEX,Returned Recieved,13 Days,180
+Sindh,Karachi,Main,TRAX,Returned Recieved,11 Days,0
+Sindh,Karachi,Main,TRAX,Returned Recieved,9 Days,0
+Sindh,Karachi,Main,TRAX,Delivered,4 Days,150
+Sindh,Larkana,Main,BLUEX,Delivered,10 Days,150
+Sindh,Makli Thatta,Village,BLUEX,Delivered,4 Days,150
+Sindh,Sadiq Abad,Main,BLUEX,Returned Recieved,7 Days,180
+Sindh,Sanghar,Main,TRAX,Delivered,8 Days,150
+Sindh,Tando Allahyar,Main,TRAX,Returned Recieved,8 Days,130
